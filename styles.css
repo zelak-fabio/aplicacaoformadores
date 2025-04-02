@@ -5,6 +5,9 @@ body{
     background-color:#18362c;
     color:#fafffd;
 }
+#introducao{
+    text-indent: 2rem;
+}
 .container{
     box-shadow: 5px 5px 5px #2c6350;
     background-color:#7FFFD4;
